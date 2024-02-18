@@ -98,7 +98,7 @@
     transition: 0.2s all 0.2s linear;
 }
 .fourth-card-box:hover {
-    margin: 55px 55px 55px 55px;
+    transform: scale(1.1);
 }
 .second-card-section-container {
     display: flex;
